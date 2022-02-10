@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 5,
+      "imageURL": "https://i.imgur.com/cCQmrlY.png",
+      "ingredients": [
+        "tomato",
+        "mozzarella"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bufala",
+      "price": 6,
+      "imageURL": "https://i.imgur.com/pXMgPhV.png",
+      "ingredients": [
+        "tomato",
+        "mozarella di bufala"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Romana",
+      "price": 5,
+      "imageURL": "https://i.imgur.com/MqJJK6Y.png",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "anchovies",
+        "oregano",
+        "oil"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Diavola",
+      "price": 7.5,
+      "imageURL": "https://i.imgur.com/nLEKEBQ.png",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "spicy salami"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pizza Bianca",
+      "price": 5,
+      "imageURL": "https://i.imgur.com/ZF9hbbB.png",
+      "ingredients": [
+        "mozzarella",
+        "oregano"
+      ]
+    }
+  ]
