@@ -11,12 +11,6 @@ $ npm install
 
 Então, execute o comando abaixo para executar a aplicação:
 ```
-$ npm run dev
-```
-
-Ou
-
-```
 $ npm run start
 ```
 
