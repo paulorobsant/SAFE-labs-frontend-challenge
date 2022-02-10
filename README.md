@@ -17,7 +17,7 @@ $ npm run dev
 Ou
 
 ```
-$ npm run dev
+$ npm run start
 ```
 
 ### Melhorias futuras
