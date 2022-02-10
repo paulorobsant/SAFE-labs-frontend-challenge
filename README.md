@@ -14,6 +14,12 @@ Então, execute o comando abaixo para executar a aplicação:
 $ npm run dev
 ```
 
+Ou
+
+```
+$ npm run dev
+```
+
 ### Melhorias futuras
 
 - O campo de pesquisa da aplicação pois um problema. Ao adicionar um nome que não existe a apagar não é renderizado o conteudo de todas as pizzas.
